@@ -1,2 +1,2 @@
-hola soy carlos alberto martinez buitrago tengo 32 años y soy desarrollador web 
-y estoy actualizandome en git
+hola soy carlos alberto martinez buitrago y voy a cumplir 33  años y soy desarrollador web 
+y estoy aprendiendo three.js
