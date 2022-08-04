@@ -3,3 +3,20 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.contenedorito {
+
+width: 50%;
+padding: 20px;
+text-align: left;
+border: 1px solid #ccc;
+margin: 0 auto;
+}
+
+.contenedorito p{
+    color: rgb(139, 138, 138);
+}
+.contenedorito h1 {
+    color: #000;
+}
