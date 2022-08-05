@@ -4,11 +4,24 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+#cabecera{
+background: rgb(52, 43, 173);
+box-shadow: -1px 4px 9px 0px rgb(0 0 0 / 66%);
+color: #fff;
+font-size: 16px;
+font-weight: bold;
+margin: 0;
+padding: 0.5em;
+}
 
+#cabecera #tagline{
+    padding-left: 10px;
+    font-size: 12px;
+    font-weight: lighter;
+}
 .contenedorito {
-
 width: 50%;
-padding: 20px;
+padding: 0px;
 text-align: left;
 border: 1px solid #ccc;
 margin: 0 auto;
@@ -19,4 +32,9 @@ margin: 0 auto;
 }
 .contenedorito h1 {
     color: #000;
+    font-size: 18px;
+}
+
+#post{
+    padding: 1em;
 }
